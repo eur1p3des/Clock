@@ -6,3 +6,6 @@
 Simple clock project written in HTML, CSS and Javascript.
 
 ![image](https://user-images.githubusercontent.com/72199195/150835915-3478225e-27ea-4dd7-b5e7-8489830690d5.png)
+
+
+<h2 align="center"><a href="https://eur1p3des.github.io">View Demo</a></h2>
